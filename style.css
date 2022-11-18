@@ -1,0 +1,65 @@
+#m2 {
+    width: 1000px;
+}
+.danger{
+    color: red;
+    font-size: 40px;
+}
+p{
+
+    font-size: 25px;
+}
+.menu {
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    list-style: none;
+    font-family: fantasy;
+    top: 10px;
+    right: 130px;
+}
+.links {
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+}
+.links:hover{
+    font-size: 25;
+    background-color: dodgerblue;
+}   
+
+.norm {
+    font-size: 40px;
+    text-align: center;
+}
+.M2 {
+    width: 75%;
+}
+#hey {
+    position: right;
+    margin-left: 700px;
+    width: 200px;
+    margin-bottom: 300px;
+}
+#idk {
+ text-align: right;
+ margin-right: 120px;
+}
+.a1 {
+    font-family:sans-serif ;
+    font-size: 30px;
+    color: white;
+    margin-left: 5%;
+}
+#fotter {
+    background-color: black;
+}
+.a2 {
+    font-family:sans-serif ;
+    font-size: 40px;
+    color: white;
+    margin-left: 5%;
+}
